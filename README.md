@@ -6,7 +6,11 @@ This is a repository to keep all of my Machine Learning experiments in one place
 
 ## ✍🏾️ Embedding & Vector Search
 
+### 📚 EPUB Vector Search
 
+Experimenting with getting embeddings and performing vector search in a local environment (ie. not using the OpenAI API), I created a notebook to read all EPUBs from my [Calibre Library](https://calibre-ebook.com/) and allow me to search through them for different phrases. 
+
+It might take a while to create indices for all the pages in your library if you're not using a GPU (or if you have a really large library), but the semantic search works really well - especially when run on textbooks or instruction manuals.
 
 ## 🖌️ GAN Tutorial Series
 
