@@ -6,6 +6,12 @@ This is a repository to keep all of my Machine Learning experiments in one place
 
 ## ✍🏾️ Embedding & Vector Search
 
+### 🔍Twitter Jobs Vector Search (with OpenAI Embeddings)
+
+I wanted to understand more about embeddings, and I also wanted to find interesting job listings with a little less manual work involved. So, I thought I'd take a shot at using the OpenAI Embeddings API to help me find the jobs I'd be interested in.
+
+I [wrote about the project here](https://ciaran.co.za/read/finding-jobs-with-openai-embeddings), and it turned out to be a pretty quick and simple idea to bring to life. 
+
 ### 📚 EPUB Vector Search
 
 Experimenting with getting embeddings and performing vector search in a local environment (ie. not using the OpenAI API), I created a notebook to read all EPUBs from my [Calibre Library](https://calibre-ebook.com/) and allow me to search through them for different phrases. 
