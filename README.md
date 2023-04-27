@@ -30,8 +30,8 @@ With CycleGAN, for exampe, I ran it on a dataset of real-life images, and Ukiyo-
 
 |Style|Input|Output|
 |---|---|---|
-|Photograph|![Photograph Input](real_in.png)|![Ukiyo-e Style Output](art-out.png)|
-|Ukiyo-e|![Ukiyo-e Input](art_in.png)|![Photographic Style Output](real-out.png)|
+|Photograph|![Photograph Input](GAN%20Tutorial%20Series/real_in.png)|![Ukiyo-e Style Output](GAN%20Tutorial%20Series/art-out.png)|
+|Ukiyo-e|![Ukiyo-e Input](GAN%20Tutorial%20Series/art_in.png)|![Photographic Style Output](GAN%20Tutorial%20Series/real-out.png)|
 
 ### Completed Exercises
 
